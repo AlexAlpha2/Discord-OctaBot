@@ -1,1 +1,1 @@
-# Discord-OctaBot
+# Please contribute as much as possible.
